@@ -95,3 +95,4 @@ function removeStudent() {
   update();
 }
 
+your-link/admin.html
